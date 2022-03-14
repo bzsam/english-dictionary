@@ -1,1 +1,2 @@
-# english-dictionary
+# English dictionary with GUI
+#
